@@ -1,15 +1,20 @@
 .div{
-    background-color: aliceblue;
+    margin: 200px;
+    color: aliceblue;
 }
 
 body{
     background-color: black;
 }
 
-.contenedor{
+#container {
+    background: #e0e0e0;
+    margin: 0 0 1rem;
+    height: 10rem;
+    display: flex;
     
-}
-
+    align-items: center;
+  }
 .h1{
     color: white;
     font-family: Arial, Helvetica, sans-serif;
