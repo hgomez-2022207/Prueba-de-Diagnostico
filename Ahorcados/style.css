@@ -1,0 +1,24 @@
+.div{
+    background-color: aliceblue;
+}
+
+body{
+    background-color: black;
+}
+
+.contenedor{
+    
+}
+
+.h1{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+}
+
+.boton{
+    background-color: greenyellow;
+    font-size: medium;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
